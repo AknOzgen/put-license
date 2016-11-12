@@ -1,0 +1,1 @@
+php %~dp0\put-license.php %1 %2 %3 %4
